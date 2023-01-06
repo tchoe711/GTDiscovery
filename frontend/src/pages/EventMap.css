@@ -1,0 +1,18 @@
+.map-container {
+    width: 100%;
+    height: 91vh;
+}
+
+.sidebar {
+    width: 20%;
+    height: 91vh;
+}
+
+.container {
+    display: flex;
+    height: 91vh;
+}
+ .search {
+    width: 225px;
+    height: 40px;
+ }

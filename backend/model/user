@@ -1,0 +1,20 @@
+class user {
+    constructor(type,name,password,email){
+        this.userType = type
+        this.userEmail = email
+        this.userName = name
+        this.userPassword = password
+    }
+    getType(){
+        return this.userType
+    }
+    getEmail(){
+        return this.userEmail
+    }
+    getName(){
+        return this.userName
+    }
+    getPassword(){
+        return this.userPassword
+    }
+}
